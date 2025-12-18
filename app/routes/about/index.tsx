@@ -1,7 +1,7 @@
 const AboutPage= () => {
     return (
         <section>
-        <h2 className="text-3xl font-bold text-white mb-2">
+        <h2 className="text-3xl font-bold text-white mb-2 text-center">
             Hey, I'm Moaz! 
         </h2>
         </section>
